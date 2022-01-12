@@ -1,8 +1,5 @@
 ### Hello world, I'm Parth! 👋
 
-
-**Parth-107/Parth-107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I am a **Computer Science graduate student** from Western Illinois University. Currently working as a **Teaching Assistant** in my university. Solely, teaching the two batches of the     Computer Literacy course (which includes MS office applications, Databases, Networking, and Other computer concepts) to students.
 
 - 🌱 Having a strong willingness to learn new things, especially related to **Machine / Deep Learning technology, and Software development**. Also, I’m always ready to complete given work with accuracy and quality. I believe, I may not be the most knowledgeable and killed person, but I am confident that I would be the most hard working person your organization can have.
