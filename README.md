@@ -8,6 +8,6 @@
 
 - ➡️ **Fields of interest :** Machine Learning, Data Science, Software Engineering
 
-- 📫 **How to reach me :** shahparth7876@gmail.com
+- 📫 **How to reach me :** shahparth7876@gmail.com and/or https://www.linkedin.com/in/ps-shah/
 
 - 😄 **Pronouns :** He / him / his
